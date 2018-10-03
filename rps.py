@@ -1,7 +1,7 @@
 #rock paper scissors game
 #VERSION 1.0
 import socket, sys, threading, time
-serveraddr = ('127.0.0.1', 1337) #change to 82.41.135.121
+serveraddr = ('127.0.0.1', 1337)
 
 #-----------------------CUSTOM EXCEPTIONS-------------------------
 
